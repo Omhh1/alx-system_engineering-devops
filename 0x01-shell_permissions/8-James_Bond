@@ -1,2 +1,2 @@
-#!/bind/bash
+#!/bin/bash
 chmod u+-,g+-,o+x hello
